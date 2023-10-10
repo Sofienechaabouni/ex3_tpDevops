@@ -12,3 +12,5 @@ while True:
         requests.post('http://localhost:5000/data', json={'data': arr})
         break
     time.sleep(0.1)
+
+#some fixes of bugs
